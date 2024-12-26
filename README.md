@@ -1,10 +1,10 @@
-# League of Kingdoms Node, Resources, Monsters, Charms Finder / Searcher and LOK Automatic BOT
+# League of Kingdoms Crystal, Dragon Soul Cavern (DSA) Finder / Resources, Monsters, Charms Searcher and LOK Automatic BOT
 **Tool / App site:** https://lokbot.co
 
 ![CleanShot 2024-12-26 at 13 23 09@2x](https://github.com/user-attachments/assets/56b91a4f-2cb5-4522-bdcb-646220cbc056)
 
 ## How this tool can help you
-- This tool can help you gather/farm crystals from the game by giving you the crystal mine locations sorted by the nearest distance / level.
+- This tool can help you gather/farm crystals / dragon soul cavern (DSA) from the game by giving you the crystal mine locations sorted by the nearest distance / level.
 - Using this tool is very safe since this tools only give you the coordinate and you are the one who will gather it through the game.
 - With this tool, you can get around **250,000 crystals a month** with nonstop searching for 12hours a day. Compared with in game you will need to spend around **US$1650 to buy 250k crystals**.
 - You will have to **3 free usages** to try it yourself
