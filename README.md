@@ -1,7 +1,11 @@
 # League of Kingdoms Crystal, Dragon Soul Cavern (DSA) Finder / Resources, Monsters, Charms Searcher and LOK Automatic BOT
 **Tool / App site:** https://lokbot.co
 
-![CleanShot 2024-12-26 at 13 23 09@2x](https://github.com/user-attachments/assets/56b91a4f-2cb5-4522-bdcb-646220cbc056)
+## Demo
+- Youtube Demo: https://www.youtube.com/watch?v=LB5aM3a6yRg&ab_channel=LOKBOT
+- Screenshot of the tool:
+- ![CleanShot 2024-12-26 at 13 23 09@2x](https://github.com/user-attachments/assets/56b91a4f-2cb5-4522-bdcb-646220cbc056)
+
 
 ## How this tool can help you
 - This tool can help you gather/farm crystals / dragon soul cavern (DSA) from the game by giving you the crystal mine locations sorted by the nearest distance / level.
