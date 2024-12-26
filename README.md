@@ -1,5 +1,5 @@
 # League of Kingdoms Node, Resources, Monsters, Charms Finder / Searcher and LOK Automatic BOT
-- Tool / App: https://lokbot.co
+- Tool / App site: https://lokbot.co
 
 ## How this tool can help you
 - This tool can help you gather/farm crystals from the game by giving you the crystal mine locations sorted by the nearest distance / level.
@@ -13,6 +13,11 @@
 - Then input your access token (we also provide the instruction to get the access token if you don't know how)
 - Then choose the node that you want to search/find (resources, monsters, charms)
 - Lastly, Click on search button, then the tool will show you all the nodes that you have selected near your kingdom
+
+## Referral Program
+- You can earn as big as *35% of the sales* by referring this tool to your friends, clan members, or Discord community.
+- To do that, you will need to create an account first in our site, then you will find the referral card in bottom left.
+- To refer someone, you can copy the referral link and send it to your clan members / discord community.
 
 ## Notes
 - The crystals can only be found in the half upper part of the map, so be sure your kingdom are in above the map.
